@@ -1,5 +1,5 @@
 # AICellCounter
-A machinelearning-based automated cell counting tool requiring only one image for training
+A machine learning-based automated cell counting tool requiring only one image for training
 
 ## Download the tool, unzip it, and use it
 
