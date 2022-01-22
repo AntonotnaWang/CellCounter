@@ -12,7 +12,7 @@ A machinelearning-based automated cell counting tool requiring only one image fo
 </div>
 
 ## Project background
-An automated tool to identify target cells in fluorescent images.
+An automated tool to identify the target cells in fluorescent images.
 
 For a cell image with three channels: ```RGB```.
 
