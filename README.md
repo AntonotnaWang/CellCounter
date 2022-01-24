@@ -16,7 +16,7 @@ An automated tool to identify the target cells in fluorescent images.
 
 For a cell image with three channels: ```RGB```.
 
-In the following example, red channel is a certain protein on the membrane; green channel is cytoskeleton; blue channel is nucleus.
+In the following example, red channel is cytoskeleton labeled by GFAP; green channel represents the whole astrocyte labeled by EGFP; blue channel is nucleus.
 
 <div align="center">
     <img src="figs/red_img.png" width="200"/>    <img src="figs/green_img.png" width="200"/>    <img src="figs/blue_img.png" width="200"/>
