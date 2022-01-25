@@ -8,8 +8,12 @@ A machine learning-based automated cell counting tool requiring only one image f
 [OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/wangad_connect_hku_hk/EkCZtVlpJZhOvybOzxiditsBCzMJxWDVIOcbfUblaHG2cQ?e=jVV373)    password: ```2333```
 
 <div align="center">
-    <img src="figs/count_result_on_img.png" width="200"/>    <img src="figs/count_result_0_and_1.png" width="200"/>
+    <img src="figs/tool.PNG" width="800"/>
 </div>
+
+<!-- <div align="center">
+    <img src="figs/count_result_on_img.png" width="200"/>    <img src="figs/count_result_0_and_1.png" width="200"/>
+</div> -->
 
 ## Project background
 An automated tool to identify the target cells in fluorescent images.
