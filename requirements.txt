@@ -1,0 +1,8 @@
+matplotlib
+numpy
+opencv_python
+Pillow
+python_igraph
+scikit_learn
+torch
+torchvision
