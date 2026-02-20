@@ -6,3 +6,4 @@ python_igraph
 scikit_learn
 torch
 torchvision
+scikit-image
